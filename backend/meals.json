@@ -298,5 +298,245 @@
     "keyIngredients": ["rice", "tomato", "Scotch bonnet"],
     "funFact": "West Africa's friendliest food fight: Nigeria and Ghana still debate whose jollof is supreme, and the rivalry is half the flavor.",
     "emoji": "🌶️"
+  },
+  {
+    "id": "mesopotamia-lamb-barley-stew",
+    "country": "Iraq",
+    "era": "Ancient",
+    "dishName": "Lamb and Barley Stew",
+    "description": "Lamb simmered with barley, leeks, garlic, and fat in a clay pot, seasoned with little more than salt. Recorded on clay tablets, not passed down by word of mouth.",
+    "keyIngredients": ["lamb", "barley", "leeks"],
+    "funFact": "This dish comes from the Yale Babylonian Tablets, written around 1730 BCE — the oldest known recipes in the world, cuneiform and all.",
+    "emoji": "🍖"
+  },
+  {
+    "id": "persian-royal-flatbread",
+    "country": "Iran",
+    "era": "Ancient",
+    "dishName": "Achaemenid Flatbread and Roast Lamb",
+    "description": "Flatbread baked against the walls of a clay oven, torn and eaten alongside spit-roasted lamb, dates, and wine. Royal feasts stretched this simple pairing into a banquet.",
+    "keyIngredients": ["wheat flatbread", "lamb", "dates"],
+    "funFact": "Greek writers marveled at Persian royal feasts, claiming the king's table fed thousands — though most of the food reportedly left as wages for guards and servants, not waste.",
+    "emoji": "🫓"
+  },
+  {
+    "id": "maya-tamales",
+    "country": "Mexico",
+    "era": "Ancient",
+    "dishName": "Maya Tamales",
+    "description": "Maize dough spread with beans and chile, wrapped in a corn husk or banana leaf, and steamed until firm. Portable, sacred, and old enough to predate the wheel in the Americas.",
+    "keyIngredients": ["maize masa", "beans", "chile"],
+    "funFact": "Tamales appear in Maya pottery art over 1,500 years old — sometimes shown being carried into the afterlife as food for the journey.",
+    "emoji": "🌽"
+  },
+  {
+    "id": "vedic-khichari",
+    "country": "India",
+    "era": "Ancient",
+    "dishName": "Khichari",
+    "description": "Rice and split lentils simmered together with ghee and turmeric into a soft, golden porridge. Simple enough for daily meals, gentle enough to be considered healing food.",
+    "keyIngredients": ["rice", "lentils", "ghee"],
+    "funFact": "This one dish never really left India's table — three thousand years later it's still the first solid food given to babies and the last comfort food offered to the sick.",
+    "emoji": "🍚"
+  },
+  {
+    "id": "norse-skyr-dried-fish",
+    "country": "Iceland",
+    "era": "Medieval",
+    "dishName": "Skyr and Dried Fish",
+    "description": "Thick, tangy cultured skyr eaten alongside wind-dried stockfish, torn by hand. No fields to farm on the North Atlantic, so the sea and the dairy pail did the work.",
+    "keyIngredients": ["skyr", "dried cod", "rye bread"],
+    "funFact": "Skyr's recipe hasn't changed much since Norse settlers brought it in the 9th century — it technically counts as a cheese, but Icelanders have always eaten it like yogurt.",
+    "emoji": "🐟"
+  },
+  {
+    "id": "goryeo-maekjeok",
+    "country": "Korea",
+    "era": "Medieval",
+    "dishName": "Maekjeok",
+    "description": "Beef marinated in soy and sesame, skewered and grilled over open flame until charred at the edges. A taste of meat in a kingdom that had spent centuries mostly avoiding it.",
+    "keyIngredients": ["beef", "soy sauce", "sesame oil"],
+    "funFact": "Buddhist Goryeo largely restricted meat-eating for centuries — until Mongol Yuan overlords reintroduced grilling in the 13th century, planting the seed for what became bulgogi.",
+    "emoji": "🍢"
+  },
+  {
+    "id": "mali-millet-to",
+    "country": "Mali",
+    "era": "Medieval",
+    "dishName": "Tô with Baobab Leaf Sauce",
+    "description": "Pounded millet cooked into a thick, smooth paste, dipped into a slippery sauce of ground baobab leaf and dried fish. A daily staple across the Mali Empire's trading cities.",
+    "keyIngredients": ["millet", "baobab leaf", "dried fish"],
+    "funFact": "Mansa Musa's Mali Empire grew fabulously wealthy on gold and salt, yet the everyday meal on most tables stayed this humble millet paste, not imported luxury.",
+    "emoji": "🍲"
+  },
+  {
+    "id": "sicilian-almond-pasta",
+    "country": "Italy",
+    "era": "Medieval",
+    "dishName": "Almond and Saffron Pasta",
+    "description": "Dried pasta strands tossed with ground almonds, saffron, and a little sugar — a dish carrying clear traces of Sicily's Arab kitchens. No tomato in sight; that arrives centuries later.",
+    "keyIngredients": ["dried pasta", "almonds", "saffron"],
+    "funFact": "A 12th-century Arab geographer described Sicilian workshops exporting dried pasta by the shipload — among the earliest written proof that dried pasta existed at all.",
+    "emoji": "🍝"
+  },
+  {
+    "id": "irish-oat-brotchan",
+    "country": "Ireland",
+    "era": "1500s",
+    "dishName": "Brotchán Roy",
+    "description": "Oatmeal simmered into a thin, leeky broth with a knob of butter and a bit of mutton stock. Warming, cheap, and made from what actually grew in Irish fields at the time.",
+    "keyIngredients": ["oats", "leeks", "mutton stock"],
+    "funFact": "The potato that Ireland later became famous for hadn't yet taken over — it arrived from the Americas only in the late 1500s and wouldn't dominate Irish tables for another century.",
+    "emoji": "🥣"
+  },
+  {
+    "id": "polish-bigos",
+    "country": "Poland",
+    "era": "1500s",
+    "dishName": "Bigos",
+    "description": "Sauerkraut and fresh cabbage stewed for hours with whatever meats were on hand, perfumed with juniper berries. Hunters kept it simmering over days in the forest.",
+    "keyIngredients": ["sauerkraut", "cabbage", "mixed meats"],
+    "funFact": "Bigos was traditionally reheated again and again — Polish cooks insisted it tasted better each day, a slow-cooked dish that was never meant to be eaten fresh.",
+    "emoji": "🍲"
+  },
+  {
+    "id": "minangkabau-rendang",
+    "country": "Indonesia",
+    "era": "1500s",
+    "dishName": "Rendang",
+    "description": "Beef slow-simmered in coconut milk and ground spices until the liquid disappears and the meat turns dark, dense, and richly caramelized. Cooked for hours, not minutes.",
+    "keyIngredients": ["beef", "coconut milk", "galangal"],
+    "funFact": "Chile peppers, now essential to rendang, only reached Sumatra through Portuguese traders in the 1500s — before that, the dish's heat came from ginger and pepper alone.",
+    "emoji": "🥘"
+  },
+  {
+    "id": "german-sauerbraten",
+    "country": "Germany",
+    "era": "1500s",
+    "dishName": "Sauerbraten",
+    "description": "A tough cut of beef marinated for days in vinegar and wine with juniper and bay, then slow-roasted until fork-tender. A recipe built entirely around patience.",
+    "keyIngredients": ["beef", "vinegar", "juniper berries"],
+    "funFact": "The long acidic marinade wasn't just for flavor — in an age without refrigeration, it was also how Rhineland cooks kept meat edible for an extra week.",
+    "emoji": "🍖"
+  },
+  {
+    "id": "russian-shchi",
+    "country": "Russia",
+    "era": "1700s",
+    "dishName": "Shchi",
+    "description": "A humble cabbage soup, sometimes soured with fermented cabbage, simmered with a little meat and served with dark rye bread. Peasant and tsar alike kept a pot going.",
+    "keyIngredients": ["cabbage", "meat broth", "rye bread"],
+    "funFact": "A Russian saying claims 'shchi and kasha are our food' — a proverb old enough that even Peter the Great's court reportedly couldn't do without it.",
+    "emoji": "🍲"
+  },
+  {
+    "id": "jamaican-jerk-pork",
+    "country": "Jamaica",
+    "era": "1700s",
+    "dishName": "Jerk Pork",
+    "description": "Pork rubbed with allspice, Scotch bonnet, and thyme, then smoked slowly over pimento wood until deeply charred. Cooked in pits, far from any plantation kitchen.",
+    "keyIngredients": ["pork", "allspice", "Scotch bonnet"],
+    "funFact": "Jerk cooking was developed by Jamaica's Maroon communities — formerly enslaved people who escaped into the mountains and smoked meat in hidden pits to avoid giving away their location.",
+    "emoji": "🔥"
+  },
+  {
+    "id": "swedish-artsoppa",
+    "country": "Sweden",
+    "era": "1700s",
+    "dishName": "Ärtsoppa med Pannkakor",
+    "description": "A thick yellow pea soup with pork, followed by thin pancakes with jam. A Thursday tradition, timed so soldiers and servants had something hearty before a lean Friday.",
+    "keyIngredients": ["yellow peas", "pork", "pancake batter"],
+    "funFact": "Swedish military kitchens served pea soup every Thursday for centuries — the custom stuck so hard that many Swedish households still eat it that exact day.",
+    "emoji": "🟡"
+  },
+  {
+    "id": "netherlands-hutspot",
+    "country": "Netherlands",
+    "era": "1700s",
+    "dishName": "Hutspot",
+    "description": "Potatoes, carrots, and onions boiled and mashed together, sometimes with a little meat stirred through. Simple, orange, and endlessly comforting on a cold canal-side evening.",
+    "keyIngredients": ["potatoes", "carrots", "onions"],
+    "funFact": "Legend ties the dish to the 1574 Siege of Leiden, but the potato inside it is a much later addition — the vegetable only became a genuine Dutch staple over the course of the 1700s.",
+    "emoji": "🥕"
+  },
+  {
+    "id": "hungarian-goulash",
+    "country": "Hungary",
+    "era": "1800s",
+    "dishName": "Gulyás",
+    "description": "Beef and onions stewed low and slow with a generous hand of paprika until the broth turns deep red. Cattle herders once cooked it over open fires on the Great Plain.",
+    "keyIngredients": ["beef", "paprika", "onions"],
+    "funFact": "Paprika only became Hungary's signature spice in the 1800s, once local growers bred a milder, sweeter pepper — before that, gulyás was a much plainer herders' stew.",
+    "emoji": "🥩"
+  },
+  {
+    "id": "argentine-asado",
+    "country": "Argentina",
+    "era": "1800s",
+    "dishName": "Asado",
+    "description": "An array of beef cuts grilled slowly over wood coals, tended for hours and shared straight off the grill. More a social ritual than a single dish.",
+    "keyIngredients": ["beef", "salt", "wood-fire coals"],
+    "funFact": "Gauchos on the pampas grilled beef this way partly out of necessity — cattle vastly outnumbered people on the plains, so meat was cheap and endlessly plentiful.",
+    "emoji": "🥩"
+  },
+  {
+    "id": "brazilian-feijoada",
+    "country": "Brazil",
+    "era": "1800s",
+    "dishName": "Feijoada",
+    "description": "Black beans stewed for hours with various cuts of pork, served over rice with orange slices on the side. A weekend dish substantial enough to need a nap afterward.",
+    "keyIngredients": ["black beans", "pork", "rice"],
+    "funFact": "Feijoada became Brazil's celebrated national dish through 19th-century cookbooks and restaurants — its popular origin story about enslaved cooks inventing it from scraps is likely more myth than history.",
+    "emoji": "🍛"
+  },
+  {
+    "id": "south-african-bobotie",
+    "country": "South Africa",
+    "era": "1800s",
+    "dishName": "Bobotie",
+    "description": "Spiced minced meat baked under a golden egg custard, studded with raisins and a bay leaf pressed into the top. Sweet, savory, and unmistakably Cape Malay.",
+    "keyIngredients": ["minced meat", "curry spices", "egg custard"],
+    "funFact": "The dish was already well-established enough by the 1800s to appear in South Africa's earliest cookbooks, cementing a recipe with roots tracing back to Cape Malay cooks generations earlier.",
+    "emoji": "🍮"
+  },
+  {
+    "id": "korean-bibimbap",
+    "country": "South Korea",
+    "era": "Modern",
+    "dishName": "Bibimbap",
+    "description": "A bowl of rice topped with seasoned vegetables, a fried egg, and a spoonful of gochujang, mixed together at the table until everything turns red-orange. Built to be stirred, not admired.",
+    "keyIngredients": ["rice", "gochujang", "seasoned vegetables"],
+    "funFact": "Some trace bibimbap to a ritual of finishing leftover ancestral-rite food by mixing it all in one bowl — a practical habit that became one of Korea's most-loved dishes.",
+    "emoji": "🍚"
+  },
+  {
+    "id": "lebanese-hummus-falafel",
+    "country": "Lebanon",
+    "era": "Modern",
+    "dishName": "Hummus and Falafel",
+    "description": "Smooth chickpea puree drizzled with olive oil, scooped up with warm pita alongside crisp fried falafel patties. A mezze table centerpiece, endlessly shared.",
+    "keyIngredients": ["chickpeas", "tahini", "fava beans or chickpeas"],
+    "funFact": "Both dishes are claimed by multiple countries across the region — hummus and falafel have sparked genuine diplomatic-level disputes over 'national dish' bragging rights.",
+    "emoji": "🧆"
+  },
+  {
+    "id": "ghanaian-waakye",
+    "country": "Ghana",
+    "era": "Modern",
+    "dishName": "Waakye",
+    "description": "Rice and beans cooked together with dried millet leaves or sorghum husks, which stain the whole pot a deep reddish-brown. Served with a stack of sides: stew, gari, spaghetti, and more.",
+    "keyIngredients": ["rice", "black-eyed peas", "millet leaves"],
+    "funFact": "The reddish color doesn't come from any spice at all — it's the millet stalks boiled in with the rice and beans that turn the whole dish that signature shade.",
+    "emoji": "🍚"
+  },
+  {
+    "id": "australian-pavlova",
+    "country": "Australia",
+    "era": "Modern",
+    "dishName": "Pavlova",
+    "description": "A meringue shell with a marshmallow-soft center, piled high with whipped cream and fresh fruit. Light, sweet, and built to collapse a little the moment you cut into it.",
+    "keyIngredients": ["egg whites", "sugar", "whipped cream"],
+    "funFact": "Named after ballerina Anna Pavlova's 1926 tour, the dessert has fueled a decades-long, still-unresolved rivalry between Australia and New Zealand over who invented it first.",
+    "emoji": "🍰"
   }
 ]
