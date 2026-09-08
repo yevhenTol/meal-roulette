@@ -1,0 +1,302 @@
+[
+  {
+    "id": "egypt-emmer-bread",
+    "country": "Egypt",
+    "era": "Ancient",
+    "dishName": "Emmer Bread and Beer",
+    "description": "Dense loaves of emmer wheat, torn by hand and washed down with thick, porridge-like beer. This was the daily ration of pyramid builders, not a banquet dish.",
+    "keyIngredients": ["emmer wheat", "wild yeast", "barley beer"],
+    "funFact": "Pyramid workers were often paid in bread and beer — a good day's wage was about ten loaves and a couple of jugs.",
+    "emoji": "🍞"
+  },
+  {
+    "id": "roman-puls",
+    "country": "Italy",
+    "era": "Ancient",
+    "dishName": "Puls",
+    "description": "A simple spelt porridge simmered with water or stock, sometimes finished with olive oil or cheese. For centuries it was the true staple of Rome — bread came later.",
+    "keyIngredients": ["spelt", "olive oil", "salt"],
+    "funFact": "Early Romans were nicknamed pultarii, 'porridge eaters,' and the word pulse for legumes still echoes this humble bowl.",
+    "emoji": "🥣"
+  },
+  {
+    "id": "spartan-black-broth",
+    "country": "Greece",
+    "era": "Ancient",
+    "dishName": "Melas Zomos",
+    "description": "A dark pork-and-blood soup sharpened with vinegar, eaten communally in Spartan mess halls. Outsiders found it grim; Spartans swore it made them brave.",
+    "keyIngredients": ["pork", "blood", "vinegar"],
+    "funFact": "A visitor from Sybaris tasted it and joked that he finally understood why Spartans were so willing to die in battle.",
+    "emoji": "🍲"
+  },
+  {
+    "id": "chinese-millet-zhou",
+    "country": "China",
+    "era": "Ancient",
+    "dishName": "Millet Zhou",
+    "description": "A silky millet porridge eaten at dawn with pickled vegetables or a pinch of salt. Long before rice ruled the north, this was the Yellow River's comfort food.",
+    "keyIngredients": ["millet", "water", "pickled greens"],
+    "funFact": "Oracle-bone inscriptions already mention millet as a sacred grain — emperors offered it to the ancestors before they offered rice.",
+    "emoji": "🍚"
+  },
+  {
+    "id": "andean-pachamanca",
+    "country": "Peru",
+    "era": "Ancient",
+    "dishName": "Pachamanca",
+    "description": "Meat, potatoes, and herbs slow-cooked in a pit of fire-hot stones, then unearthed like buried treasure. Families still gather around the opened earth to eat it together.",
+    "keyIngredients": ["Andean potatoes", "llama or guinea pig", "huacatay"],
+    "funFact": "The name means 'earth pot' in Quechua — a meal cooked in Pachamama herself, centuries before any European oven arrived.",
+    "emoji": "🥔"
+  },
+  {
+    "id": "english-frumenty",
+    "country": "England",
+    "era": "Medieval",
+    "dishName": "Frumenty",
+    "description": "Cracked wheat slow-cooked into a creamy porridge, served plain on fast days or rich with broth and venison at Christmas. A spoon, not a fork, did the work.",
+    "keyIngredients": ["wheat", "milk or almond milk", "saffron"],
+    "funFact": "It was the original English Christmas side — roast boar got the glory, but frumenty filled the trenchers.",
+    "emoji": "🌾"
+  },
+  {
+    "id": "french-blancmanger",
+    "country": "France",
+    "era": "Medieval",
+    "dishName": "Blancmanger",
+    "description": "Shredded chicken bound with almond milk, rice, and sugar into a pale, delicate mold. Nobles ate this 'white food' as a show of refinement and purity.",
+    "keyIngredients": ["chicken", "almond milk", "rice"],
+    "funFact": "White dishes signaled luxury: almonds and sugar were imported treasures, so a colorless plate could cost more than a roast.",
+    "emoji": "🍗"
+  },
+  {
+    "id": "japanese-narezushi",
+    "country": "Japan",
+    "era": "Medieval",
+    "dishName": "Narezushi",
+    "description": "Fish packed in cooked rice and left to ferment for months until it turned tangy and pungent. Diners originally ate the fish and threw the rice away.",
+    "keyIngredients": ["freshwater fish", "rice", "salt"],
+    "funFact": "This is sushi's funky ancestor — the rice was a preservative, not the point, until later cooks decided it was too good to discard.",
+    "emoji": "🐟"
+  },
+  {
+    "id": "ethiopian-injera-wat",
+    "country": "Ethiopia",
+    "era": "Medieval",
+    "dishName": "Injera with Wat",
+    "description": "Sour teff flatbread used as both plate and utensil, torn and scooped through a spiced stew. No forks: you eat with your right hand, sharing from one tray.",
+    "keyIngredients": ["teff", "berbere spices", "onions"],
+    "funFact": "Teff is one of the world's tiniest grains, yet it has fed Ethiopian highlands for millennia and still can't be outsourced easily — it prefers that altitude.",
+    "emoji": "🫓"
+  },
+  {
+    "id": "moroccan-couscous",
+    "country": "Morocco",
+    "era": "Medieval",
+    "dishName": "Couscous",
+    "description": "Hand-rolled semolina steamed over a bubbling stew of lamb, chickpeas, and vegetables, then fluffed and crowned with the broth. Friday tables still revolve around it.",
+    "keyIngredients": ["semolina", "lamb", "chickpeas"],
+    "funFact": "Berber cooks were steaming couscous centuries before pasta became Italy's pride — UNESCO later listed the whole Maghreb tradition as heritage.",
+    "emoji": "🥘"
+  },
+  {
+    "id": "mughal-biryani",
+    "country": "India",
+    "era": "1500s",
+    "dishName": "Biryani",
+    "description": "Layered rice and spiced meat sealed in a pot and slow-cooked dum-style so the steam perfumes every grain. Served at Mughal courts as a feast in one vessel.",
+    "keyIngredients": ["basmati rice", "mutton", "saffron"],
+    "funFact": "The dish is a Persian-Indian handshake: Iranian layered rice met Indian spices in the Mughal kitchen and never left.",
+    "emoji": "🍛"
+  },
+  {
+    "id": "ottoman-pilav",
+    "country": "Turkey",
+    "era": "1500s",
+    "dishName": "Saffron Pilav",
+    "description": "Rice toasted in butter, then simmered in rich broth until each grain stands separate and gleaming. Ottoman palaces judged a cook by this one dish.",
+    "keyIngredients": ["rice", "butter", "saffron"],
+    "funFact": "At Topkapi, a perfectly cooked pilav could promote a chef; a mushy one could end a career. Rice was status you could taste.",
+    "emoji": "🍚"
+  },
+  {
+    "id": "japanese-tempura",
+    "country": "Japan",
+    "era": "1500s",
+    "dishName": "Tempura",
+    "description": "Seafood and vegetables dipped in a lacy batter and fried until crisp, eaten hot with a light dipping sauce. A Portuguese import that Japan made its own.",
+    "keyIngredients": ["shrimp", "wheat flour", "sesame oil"],
+    "funFact": "The name likely comes from Latin quatuor tempora — Ember Days — when Portuguese Catholics fried vegetables instead of eating meat.",
+    "emoji": "🍤"
+  },
+  {
+    "id": "ming-peking-duck",
+    "country": "China",
+    "era": "1500s",
+    "dishName": "Peking Duck",
+    "description": "A duck inflated under the skin, glazed, and roasted until the lacquered crackling shatters. Diners wrap crisp skin in thin pancakes with scallion and sweet sauce.",
+    "keyIngredients": ["duck", "maltose glaze", "scallions"],
+    "funFact": "Ming imperial kitchens pumped air between skin and meat so the fat rendered out and the skin roasted into glass — a technique still used in Beijing.",
+    "emoji": "🦆"
+  },
+  {
+    "id": "spanish-olla-podrida",
+    "country": "Spain",
+    "era": "1500s",
+    "dishName": "Olla Podrida",
+    "description": "A lavish pot of chickpeas, meats, and spices left to mellow into one deep stew, ladled over bread. Golden-Age Spain ate this as both peasant fuel and banquet flex.",
+    "keyIngredients": ["chickpeas", "pork", "saffron"],
+    "funFact": "The name means 'rotten pot,' a joke about how long it simmered — Cervantes even lets Don Quixote praise it as a stew of many things.",
+    "emoji": "🍲"
+  },
+  {
+    "id": "french-pot-au-feu",
+    "country": "France",
+    "era": "1700s",
+    "dishName": "Pot-au-Feu",
+    "description": "Beef and bones simmered for hours with roots and cabbage, then served in two acts: the broth first, the meat and vegetables after. The hearth never really went cold.",
+    "keyIngredients": ["beef", "carrots", "marrow bones"],
+    "funFact": "French households kept a pot-au-feu going for days, topping it up like a liquid family heirloom. Brillat-Savarin later called it the symbol of French cuisine.",
+    "emoji": "🍖"
+  },
+  {
+    "id": "mexican-mole-poblano",
+    "country": "Mexico",
+    "era": "1700s",
+    "dishName": "Mole Poblano",
+    "description": "A velvet sauce of dried chiles, spices, and a whisper of chocolate, poured over turkey and eaten with tortillas. It tastes like a whole market ground into one spoon.",
+    "keyIngredients": ["dried chiles", "cacao", "turkey"],
+    "funFact": "Legend credits 18th-century Puebla nuns who, panicking before a visiting bishop, threw every precious ingredient they had into one miraculous sauce.",
+    "emoji": "🌶️"
+  },
+  {
+    "id": "edo-soba",
+    "country": "Japan",
+    "era": "1700s",
+    "dishName": "Edo Soba",
+    "description": "Buckwheat noodles served chilled with a dipping sauce or in a hot broth, slurped at street stalls by hurried Edo townsmen. Fast food, Edo-style.",
+    "keyIngredients": ["buckwheat", "soy sauce", "dashi"],
+    "funFact": "Edo fire codes banned heavy cooking in wooden neighborhoods, so soba shops thrived as the city's original grab-and-go lunch.",
+    "emoji": "🍜"
+  },
+  {
+    "id": "english-yorkshire-pudding",
+    "country": "England",
+    "era": "1700s",
+    "dishName": "Yorkshire Pudding",
+    "description": "A batter of flour, eggs, and milk poured into smoking beef drippings until it billows crisp and hollow. Eaten beside roast beef, or first to cheaply fill you up.",
+    "keyIngredients": ["wheat flour", "eggs", "beef drippings"],
+    "funFact": "It debuted in print in 1737 as 'dripping pudding' — a thrifty trick to catch the fat falling from the Sunday roast.",
+    "emoji": "🥩"
+  },
+  {
+    "id": "colonial-succotash",
+    "country": "United States",
+    "era": "1700s",
+    "dishName": "Succotash",
+    "description": "Corn kernels and beans simmered together, sometimes with squash, eaten from a wooden bowl as a complete meal. Native knowledge, colonial kitchen.",
+    "keyIngredients": ["corn", "beans", "squash"],
+    "funFact": "The name comes from a Narragansett word, msíckquatash — a Three Sisters dish that kept New England alive when wheat fields failed.",
+    "emoji": "🌽"
+  },
+  {
+    "id": "pizza-margherita",
+    "country": "Italy",
+    "era": "1800s",
+    "dishName": "Pizza Margherita",
+    "description": "A thin Neapolitan round baked in a wood oven with tomato, mozzarella, and basil — the colors of the Italian flag. Eaten hot, folded, and without apology.",
+    "keyIngredients": ["tomato", "mozzarella", "basil"],
+    "funFact": "In 1889 a Naples pizzaiolo baked this trio for Queen Margherita, turning street food into a patriotic legend — tomatoes finally respectable on a royal plate.",
+    "emoji": "🍕"
+  },
+  {
+    "id": "nigiri-sushi",
+    "country": "Japan",
+    "era": "1800s",
+    "dishName": "Nigiri Sushi",
+    "description": "A bite of vinegared rice pressed by hand and topped with a slice of raw fish, eaten in one or two mouthfuls at an Edo stall. No rolls, no fuss — just fish and rice.",
+    "keyIngredients": ["vinegared rice", "raw fish", "wasabi"],
+    "funFact": "Hanaya Yohei popularized this style in the 1820s as Edo fast food: vinegar bought extra minutes before refrigeration existed.",
+    "emoji": "🍣"
+  },
+  {
+    "id": "english-fish-and-chips",
+    "country": "England",
+    "era": "1800s",
+    "dishName": "Fish and Chips",
+    "description": "Beer-battered white fish and thick-cut fried potatoes, wrapped in paper and eaten with salt and vinegar on the walk home. Britain's original takeaway.",
+    "keyIngredients": ["cod or haddock", "potatoes", "malt vinegar"],
+    "funFact": "Jewish immigrants brought fried fish; Belgian-style chips met it in the 1860s. By World War II, Churchill protected it from rationing as a national morale dish.",
+    "emoji": "🍟"
+  },
+  {
+    "id": "new-england-clam-chowder",
+    "country": "United States",
+    "era": "1800s",
+    "dishName": "Clam Chowder",
+    "description": "A milky stew of clams, salt pork, and potatoes, ladled into bowls — sometimes into hollowed bread. Coastal New England ate it thick enough to stand a spoon.",
+    "keyIngredients": ["clams", "potatoes", "salt pork"],
+    "funFact": "The cream version is the Yankee original; Manhattan's tomato chowder later started a food fight that still isn't settled.",
+    "emoji": "🥣"
+  },
+  {
+    "id": "peruvian-ceviche",
+    "country": "Peru",
+    "era": "1800s",
+    "dishName": "Ceviche",
+    "description": "Raw fish 'cooked' in lime juice with chile and onion, served cold with corn and sweet potato. A coastal punch of acid, heat, and crunch.",
+    "keyIngredients": ["white fish", "lime", "aji chile"],
+    "funFact": "Pre-Hispanic cooks cured fish with local acids; Spanish limes supercharged the recipe in the 1800s into the national dish Peru argues over by the minute.",
+    "emoji": "🍋"
+  },
+  {
+    "id": "thai-pad-thai",
+    "country": "Thailand",
+    "era": "Modern",
+    "dishName": "Pad Thai",
+    "description": "Stir-fried rice noodles with tamarind, fish sauce, egg, and crushed peanuts, eaten from a street wok in minutes. Sweet, sour, salty, and a little smoky.",
+    "keyIngredients": ["rice noodles", "tamarind", "peanuts"],
+    "funFact": "In the 1930s the government pushed pad Thai as a national dish to cut rice consumption and stitch a modern Thai identity — a stir-fry with a propaganda past.",
+    "emoji": "🍜"
+  },
+  {
+    "id": "indian-butter-chicken",
+    "country": "India",
+    "era": "Modern",
+    "dishName": "Butter Chicken",
+    "description": "Tandoori chicken simmered in a silky tomato-butter-cream sauce, scooped up with naan. Delhi comfort food that conquered menus worldwide.",
+    "keyIngredients": ["chicken", "tomato", "butter"],
+    "funFact": "Invented in 1950s Delhi at Moti Mahal, allegedly to rescue leftover tandoori chicken — the leftovers became more famous than the original roast.",
+    "emoji": "🍛"
+  },
+  {
+    "id": "vietnamese-pho",
+    "country": "Vietnam",
+    "era": "Modern",
+    "dishName": "Phở",
+    "description": "A clear beef broth poured over rice noodles, herbs, and lime, slurped at dawn from a steaming bowl. Hanoi eats it for breakfast; the world stole it for every meal.",
+    "keyIngredients": ["beef bones", "rice noodles", "star anise"],
+    "funFact": "Phở rose in early-1900s Hanoi, likely borrowing French bone-broth habits and Chinese spices — then became the taste of home for a diaspora.",
+    "emoji": "🍜"
+  },
+  {
+    "id": "mexican-tacos-al-pastor",
+    "country": "Mexico",
+    "era": "Modern",
+    "dishName": "Tacos al Pastor",
+    "description": "Pork marinated in chile and pineapple, spun on a vertical spit, then shaved onto a tortilla with onion and cilantro. Street-stand theater you eat in three bites.",
+    "keyIngredients": ["pork", "achiote", "pineapple"],
+    "funFact": "Lebanese immigrants brought shawarma to Mexico; locals swapped lamb for pork, added pineapple, and invented a taco that outshone the original spit.",
+    "emoji": "🌮"
+  },
+  {
+    "id": "nigerian-jollof-rice",
+    "country": "Nigeria",
+    "era": "Modern",
+    "dishName": "Jollof Rice",
+    "description": "Long-grain rice cooked in a smoky tomato-pepper stew until every grain is stained red-orange. Served at parties, arguments, and any excuse for a feast.",
+    "keyIngredients": ["rice", "tomato", "Scotch bonnet"],
+    "funFact": "West Africa's friendliest food fight: Nigeria and Ghana still debate whose jollof is supreme, and the rivalry is half the flavor.",
+    "emoji": "🌶️"
+  }
+]
