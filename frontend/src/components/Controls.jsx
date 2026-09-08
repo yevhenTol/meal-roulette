@@ -1,5 +1,4 @@
-// The API uses "Modern"; the UI calls it "Today".
-const ERA_LABELS = { Modern: 'Today' }
+import { eraLabel } from '../eras'
 
 export default function Controls({
   country,
@@ -41,7 +40,7 @@ export default function Controls({
             aria-pressed={value === era}
             onClick={() => onEraChange(value === era ? '' : value)}
           >
-            {ERA_LABELS[value] ?? value}
+            {eraLabel(value)}
           </button>
         ))}
       </div>

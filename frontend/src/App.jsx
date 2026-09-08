@@ -5,6 +5,7 @@ import LoadingCard from './components/LoadingCard'
 import MealCard from './components/MealCard'
 import { fetchCountries, fetchEras, fetchMeal } from './api'
 import { MOCK_ERAS } from './mockMeals'
+import { sortEras } from './eras'
 
 // Keep the spin visible even when the API answers instantly.
 const MIN_SPIN_MS = 1500
@@ -26,7 +27,7 @@ export default function App() {
 
   useEffect(() => {
     fetchEras().then((list) => {
-      if (Array.isArray(list) && list.length) setEras(list)
+      if (Array.isArray(list) && list.length) setEras(sortEras(list))
     })
     fetchCountries().then((list) => {
       if (Array.isArray(list)) setCountries(list)

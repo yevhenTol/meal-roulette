@@ -1,4 +1,4 @@
-const ERA_LABELS = { Modern: 'Today' }
+import { eraLabel } from '../eras'
 
 export default function MealCard({ meal, onSpinAgain, busy }) {
   const { country, era, dishName, emoji, description, keyIngredients, funFact } = meal
@@ -6,7 +6,7 @@ export default function MealCard({ meal, onSpinAgain, busy }) {
   return (
     <section className="meal-card">
       <p className="meal-eyebrow">
-        {country} · {ERA_LABELS[era] ?? era}
+        {country} · {eraLabel(era)}
       </p>
       <h2 className="meal-title">{dishName}</h2>
       {emoji && (
