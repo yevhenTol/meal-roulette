@@ -5,9 +5,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const MEALS_PATH = path.join(__dirname, "meals.json");
+const MEALS_PATH = process.env.MEALS_PATH || path.join(__dirname, "meals.json");
 
-const app = express();
+export const app = express();
 app.use(cors());
 
 function loadMeals() {
@@ -63,7 +63,12 @@ app.get("/api/health", (_req, res) => {
   res.json({ ok: true, mealsLoaded: loadMeals().length });
 });
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => {
-  console.log(`Meal Roulette API running on http://localhost:${PORT}`);
-});
+const isMain =
+  process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
+
+if (isMain) {
+  const PORT = process.env.PORT || 3001;
+  app.listen(PORT, () => {
+    console.log(`Meal Roulette API running on http://localhost:${PORT}`);
+  });
+}

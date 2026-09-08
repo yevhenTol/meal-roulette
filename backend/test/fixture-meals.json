@@ -1,0 +1,32 @@
+[
+  {
+    "id": "france-pot-au-feu",
+    "country": "France",
+    "era": "1700s",
+    "dishName": "Pot-au-Feu",
+    "description": "A slow-simmered beef and vegetable broth.",
+    "keyIngredients": ["beef", "carrot", "leek"],
+    "funFact": "Long considered the national dish of France.",
+    "emoji": "🍲"
+  },
+  {
+    "id": "france-galette",
+    "country": "France",
+    "era": "Medieval",
+    "dishName": "Buckwheat Galette",
+    "description": "A thin savory buckwheat pancake from Brittany.",
+    "keyIngredients": ["buckwheat", "salt", "water"],
+    "funFact": "Buckwheat tolerated Brittany's poor soil.",
+    "emoji": "🥞"
+  },
+  {
+    "id": "egypt-emmer-bread",
+    "country": "Egypt",
+    "era": "Ancient",
+    "dishName": "Emmer Bread and Beer",
+    "description": "Dense loaves of emmer wheat with thick barley beer.",
+    "keyIngredients": ["emmer wheat", "wild yeast", "barley beer"],
+    "funFact": "Pyramid workers were often paid in bread and beer.",
+    "emoji": "🍞"
+  }
+]
