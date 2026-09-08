@@ -14,4 +14,9 @@ export default defineConfig({
       },
     },
   },
+  // `vite preview` blocks unknown Host headers by default; allow tunnel hosts
+  // (Cloudflare quick tunnels, ngrok) used for temporary demo deploys.
+  preview: {
+    allowedHosts: ['.trycloudflare.com', '.ngrok-free.app', '.ngrok.io'],
+  },
 })

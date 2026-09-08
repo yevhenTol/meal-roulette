@@ -3,6 +3,7 @@ import { eraLabel } from '../eras'
 export default function Controls({
   country,
   onCountryChange,
+  countries,
   era,
   onEraChange,
   eras,
@@ -20,16 +21,19 @@ export default function Controls({
       <label className="field-label" htmlFor="country">
         Country or region
       </label>
-      <input
+      <select
         id="country"
-        className="text-input"
-        type="text"
+        className="text-input select-input"
         value={country}
         onChange={(event) => onCountryChange(event.target.value)}
-        placeholder="Georgia, Peru, anywhere…"
-        autoComplete="off"
-        list="country-suggestions"
-      />
+      >
+        <option value="">Anywhere</option>
+        {countries.map((name) => (
+          <option key={name} value={name}>
+            {name}
+          </option>
+        ))}
+      </select>
 
       <div className="era-row" role="group" aria-label="Era">
         {eras.map((value) => (

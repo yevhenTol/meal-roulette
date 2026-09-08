@@ -65,19 +65,14 @@ export default function App() {
         <Controls
           country={country}
           onCountryChange={setCountry}
+          countries={countries}
           era={era}
           onEraChange={setEra}
           eras={eras}
           busy={busy}
-          onSpin={() => spin({ country: country.trim(), era })}
+          onSpin={() => spin({ country, era })}
           onSurprise={() => spin({})}
         />
-
-        <datalist id="country-suggestions">
-          {countries.map((name) => (
-            <option key={name} value={name} />
-          ))}
-        </datalist>
 
         {status === 'loading' && (
           <LoadingCard country={pending?.country} era={pending?.era} />
