@@ -125,9 +125,9 @@ body {
 }
 
 .pill {
-  flex: 1 1 auto;
-  min-width: 92px;
-  padding: 12px 8px;
+  /* Sized to its label — never stretched to fill a wrapped row. */
+  flex: 0 0 auto;
+  padding: 12px 16px;
   border-radius: 999px;
   border: 1px solid var(--panel-line);
   background: transparent;
